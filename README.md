@@ -1,2 +1,2 @@
 # CatanDiceRolls
-# Repo for the catan die distribution analysis.
+### Repo for the catan die distribution analysis.
